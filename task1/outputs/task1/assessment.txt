@@ -1,0 +1,29 @@
+============================================================
+Task 1: aFRR Activation Assessment Report
+Date: 2025-09-22
+============================================================
+
+SUMMARY METRICS
+------------------------------------------------------------
+Total aFRR Activation (MW): 877.05
+Total Imbalance Volume (MW): 2025.64
+Average |aFRR Activation| / |Imbalance| Ratio: 0.3114
+Max aFRR Activation (MW): 44.08
+Max Imbalance Volume (MW): 113.57
+THEORETICAL BACKGROUND
+------------------------------------------------------------
+aFRR (automatic Frequency Restoration Reserve) is a secondary reserve used to restore
+system frequency to nominal value after primary reserves (FCR) have responded. 
+Its is activated automatically based on frequency deviations and imbvalance signal . 
+
+The ratio of aFRR activation to total imbalance indicates:
+- How much of the system imbalance is being covered by aFRR reserves
+- The efficiency of the balancing market
+- Whether sufficient reserves are available to cover imbalances
+
+ASSESSMENT
+------------------------------------------------------------
+Low activation ratio (<0.5): aFRR covers less than half of imbalances,
+suggesting other balancing mechanisms or reserves are also in use.
+
+============================================================
