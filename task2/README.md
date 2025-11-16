@@ -70,4 +70,4 @@ The output file contains all the analysis results from running `task2.py` in a t
 
 ## Output Format
 - Console output (when running script)
-- Saved to `output_english.txt` (complete results)
+- Saved to `output.txt` (complete results)
